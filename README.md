@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+            ![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)
 
 <div>
     <div align="center">
@@ -23,9 +22,6 @@
                     </ul>
     </div> 
     <hr>
-    <div align="center">
-            ![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)
-    </div>
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="200"/>
     <div align="center">
