@@ -24,9 +24,9 @@
     </div> 
     <hr>
     <div align="center">
-        <p>I’m currently working on private repo's however, if you'd like to collaborate on anything message me on 
-            \F5EF
-            <i class="bi bi-twitter"></i>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
             <a href="https://twitter.com/aBeLeetiz"> twitter</a></p>
     </div>
 </div>
