@@ -6,10 +6,10 @@
     <div align="center">
         Welcome to my GitHub Profile page.
     </div>
+    <hr>
     <div>
                 I’m looking to collaborate on projects utilize currently developed tech or new/current subject matters: 
-                <p>( Space explorartion and Image , Business management , Software Development workflows )</p>
-                <hr>
+                ( Space explorartion and Image , Business management , Software Development workflows )
                 <p>Some links I often use:</p>
                         <ul>
                             <li> Colorado Boulder Satellites -https://rammb-slider.cira.colostate.edu/ </li>
