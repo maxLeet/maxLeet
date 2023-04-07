@@ -27,7 +27,7 @@
   <a href="[your-twitter-URL](https://twitter.com/aBeLeetiz)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-/p>
+</p>
     </div>
 </div>
 
