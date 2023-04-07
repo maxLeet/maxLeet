@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div style="center">
+    Welcome to my GitHub Profile page.
+</div>
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="100"/>
+  
 <!--
 **maxLeet/maxLeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite anime is 'Ghost in the shell'.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="100"/>
+
 </div>
