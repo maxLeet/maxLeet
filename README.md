@@ -23,7 +23,9 @@
                     </ul>
     </div> 
     <hr>
+    
     ![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)
+    
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="200"/>
     <div align="center">
