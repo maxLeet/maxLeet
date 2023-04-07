@@ -27,6 +27,12 @@
   <a href="[your-twitter-URL](https://twitter.com/aBeLeetiz)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCX5Pc41A2hTC-Cp-3ZZ3T3w)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/abraham-andres-mesa-b1017123/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
     </div>
 </div>
