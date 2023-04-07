@@ -1,5 +1,5 @@
 ### Hi there 👋
-#![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)
+![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)
 
 <div>
     <div align="center">
