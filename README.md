@@ -24,10 +24,10 @@
     </div> 
     <hr>
     <div align="center">
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-URL](https://twitter.com/aBeLeetiz)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-            <a href="https://twitter.com/aBeLeetiz"> twitter</a></p>
+/p>
     </div>
 </div>
 
