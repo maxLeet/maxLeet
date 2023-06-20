@@ -25,13 +25,13 @@
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="200"/>
     <div align="center">
-  <a href="[your-twitter-URL](https://twitter.com/aBeLeetiz)">
+  <a href="https://twitter.com/aBeLeetiz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCX5Pc41A2hTC-Cp-3ZZ3T3w)">
+  <a href="https://www.youtube.com/channel/UCX5Pc41A2hTC-Cp-3ZZ3T3w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/abraham-andres-mesa-b1017123/)">
+    <a href="https://www.linkedin.com/in/abraham-andres-mesa-b1017123/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
