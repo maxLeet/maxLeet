@@ -12,8 +12,8 @@
                 <p>Some links I often use:</p>
                         <ul>
                             <li> Colorado Boulder Satellites -https://rammb-slider.cira.colostate.edu/ </li>
-                            <li> Google Earth -https://www.google.com/earth/index.html </li>
-                            <li> NASA mission page -https://science.nasa.gov/missions-page?field_division_tid=103&field_phase_tid=All </li>
+                            <li> Google Earth -https://www.google.com/earth/ </li>
+                            <li> NASA mission page -https://science.nasa.gov/missions-page </li>
                             <li> Project Euler programming challenges -https://projecteuler.net/ </li>
                             <li> Top Coder programming challenges -https://www.topcoder.com/ </li>
                             <li> Hacker Rank -https://www.hackerrank.com/ </li>
