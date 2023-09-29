@@ -1,5 +1,6 @@
 ### Hey 👋
 ![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)      
+<img src="[https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png]" width="200"/>
 <div>
     <div align="center">
         Welcome to my GitHub Profile page.
