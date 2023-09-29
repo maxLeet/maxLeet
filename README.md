@@ -1,11 +1,5 @@
-![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)
-        :::   :::       :::     :::    ::: :::        :::::::::: :::::::::: ::::::::::: 
-      :+:+: :+:+:    :+: :+:   :+:    :+: :+:        :+:        :+:            :+:      
-    +:+ +:+:+ +:+  +:+   +:+   +:+  +:+  +:+        +:+        +:+            +:+       
-   +#+  +:+  +#+ +#++:++#++:   +#++:+   +#+        +#++:++#   +#++:++#       +#+        
-  +#+       +#+ +#+     +#+  +#+  +#+  +#+        +#+        +#+            +#+         
- #+#       #+# #+#     #+# #+#    #+# #+#        #+#        #+#            #+#          
-###       ### ###     ### ###    ### ########## ########## ##########     ###           
+### Hey 👋
+![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)      
 <div>
     <div align="center">
         Welcome to my GitHub Profile page.
