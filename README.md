@@ -7,8 +7,8 @@
     </div>
     <hr>
     <div>
-                I’m looking to collaborate on projects utilize currently developed tech or new/current subject matters: 
-                ( Space explorartion and Image , Business management , Software Development workflows )
+                I’m looking to collaborate on projects that utilize currently developed tech or new/current subject matters: 
+                ( Space exploration and Image, Business Management, Software Development workflows )
                 <p>Some links I often use:</p>
                         <ul>
                             <li> Colorado Boulder Satellites -https://rammb-slider.cira.colostate.edu/ </li>
@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning, I'm currently doing some data science training (Google's Advanced Data Analytics Certificate)
 - 👯
     
-- 🤔 I’m looking for help with deliverying quantifiable data models. 
+- 🤔 I’m looking for help with delivering quantifiable data models. 
 - 💬 Ask me about anything within my interests. 
 - 📫 How to reach me: email (maxleetis@bellsouth.net)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite anime is 'Ghost in the shell'.
+- ⚡ Fun fact: My favorite anime is 'Ghost in the Shell'.
 
 
 </div>
