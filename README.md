@@ -21,10 +21,6 @@
                             <li> Hacker Rank -https://www.hackerrank.com/ </li>
                     </ul>
     </div> 
-    <hr>
-    <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="200"/>
-
     <ul>
                             <li> Colorado Boulder Satellites -https://rammb-slider.cira.colostate.edu/ </li>
                             <li> Google Earth -https://www.google.com/earth/ </li>
@@ -35,6 +31,9 @@
                             <li> Algo Expert -https://www.algoexpert.io/ </li>
                             <li> Hacker Rank -https://www.hackerrank.com/ </li>
                     </ul>
+    <hr>
+    <div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxMGM5ZTU0NjM1ZWJlZjU0MWY0ZmY0YWE1ZDExOTY3NGIxYjg4MyZjdD1n/6S4LvHO8qIkyQ/giphy.gif" width="200"/>
     <div align="center">
   <a href="https://twitter.com/aBeLeetiz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
