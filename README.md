@@ -19,9 +19,6 @@
                             <li> Hacker Rank -https://www.hackerrank.com/ </li>
                             <li> Algo Expert -https://www.algoexpert.io/ </li>
                             <li> Hacker Rank -https://www.hackerrank.com/ </li>
-                    </ul>
-    </div> 
-    <ul>
                             <li> Current Project -https://www.mesamedia.xyz/ </li>
                     </ul>
     <hr>
