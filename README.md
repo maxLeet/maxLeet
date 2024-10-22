@@ -21,8 +21,6 @@
                             <li> Hacker Rank -https://www.hackerrank.com/ </li>
                             <li> Current Project -https://www.mesamedia.xyz/ </li>
                     </ul>
-    <hr>
-
 <!--
 **maxLeet/maxLeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
