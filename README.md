@@ -5,7 +5,6 @@
     <div align="center">
         Welcome to my GitHub Profile page.
     </div>
-    <hr>
     <div>
                 I’m looking to collaborate on projects that utilize currently developed tech or new/current subject matters: 
                 ( Space exploration and Image, Business Management, Software Development workflows )
