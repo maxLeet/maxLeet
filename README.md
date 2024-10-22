@@ -2,9 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=maxLeet&color=blueviolet&style=plastic&label=Visits)      
 <img src="[https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png]" width="200"/>
 <div>
-    <div align="center">
-        Welcome to my GitHub Profile page.
-    </div>
+    
     <div>
                 I’m looking to collaborate on projects that utilize currently developed tech or new/current subject matters: 
                 ( Space exploration and Image, Business Management, Software Development workflows )
