@@ -22,21 +22,7 @@
                             <li> Current Project -https://www.mesamedia.xyz/ </li>
                     </ul>
     <hr>
-    <div id="header" align="center">
-    <div align="center">
-  <a href="https://twitter.com/aBeLeetiz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@mesa-media-llc">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <a href="https://www.linkedin.com/in/abraham-andres-mesa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-    </div>
-</div>
-  
+
 <!--
 **maxLeet/maxLeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
